@@ -30,12 +30,10 @@ The repository contains several important files that contribute to the project:
 - **generated_data_for_figures.json**: This JSON file contains the data used to generate figures for the project's report. This can be used to replicate FIG 2-6 using the helper functions listed in the notebook.
 
 ## Contributions
-Shashi: Wrote the code for modified optimizer functions and associated helper functions, Implemented the code to plot FIG 2 for 300 iterations, Implemented the code to plot FIG 7-8, Documented certain sections of the code, wrote the Reproducibility section of the report. 
+Shashi [@shashi981](https://github.com/shashi981): Wrote the code for modified optimizer functions and associated helper functions, Implemented the code to plot FIG 2 for 300 iterations, Implemented the code to plot FIG 7-8, Documented certain sections of the code, wrote the Reproducibility section of the report. 
 
+So [@sonozaki7](https://github.com/sonozaki7): wrote all target distribution code, wrote the report theory, and result section.
 
-So : wrote all target distribution code, wrote the report theory, and result section
+Ore [@oreade16](https://github.com/oreade16): wrote the ansatz, and the framework section. 
 
-
-Ore: wrote the ansatz, and the framework section. 
-
-Akshat: Wrote the code for the qcbm, loss, optimizer, figure_creator functions and the associated helper functions. Implemented code for FIG 2-6 and Table 2, Documented the code base and formatted the code base. Wrote the opinion piece of the code as well as helped review the report.
+Akshat [@DentedGem](https://github.com/DentedGem): Wrote the code for the qcbm, loss, optimizer, figure_creator functions and the associated helper functions. Implemented code for FIG 2-6 and Table 2, Documented the code base and formatted the code base. Wrote the opinion piece of the code as well as helped review the report.
