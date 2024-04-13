@@ -34,6 +34,6 @@ Shashi [@shashi981](https://github.com/shashi981): Wrote the code for modified o
 
 So [@sonozaki7](https://github.com/sonozaki7): wrote all target distribution code, wrote the report theory, and result section.
 
-Ore [@oreade16](https://github.com/oreade16): wrote the ansatz, and the framework section. 
+Ore [@oreade16](https://github.com/oreade16): wrote all the ansatze functions, and the framework section. Also helped to review the report
 
 Akshat [@DentedGem](https://github.com/DentedGem): Wrote the code for the qcbm, loss, optimizer, figure_creator functions and the associated helper functions. Implemented code for FIG 2-6 and Table 2, Documented the code base and formatted the code base. Wrote the opinion piece of the code as well as helped review the report.
